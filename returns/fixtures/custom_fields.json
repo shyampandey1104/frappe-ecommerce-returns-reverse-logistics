@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Ecommerce Returns Reverse Logistics Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
